@@ -21,8 +21,8 @@
 
 ## My Skill Set 👩‍💻
 
-<table width="100%"><tr>
- <td valign="top" width="100%">
+<table width="100%"><tr  width="100%">
+ <td valign="top" width="50%">
 
 
 
@@ -40,7 +40,7 @@
 
 </td>
  
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 
 
 
