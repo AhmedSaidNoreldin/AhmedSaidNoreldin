@@ -37,7 +37,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -48,11 +48,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="MongoDB" height="50" />   
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table> 
+</td>
+ </tr></table> 
 <br/>  
 <br/>
 
