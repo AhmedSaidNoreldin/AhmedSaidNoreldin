@@ -3,7 +3,7 @@
 </div>  
  <br/>
 
-# <div align="center">I'm Ahmed Said, a full-stack developer and @nofalseo Team Leader 👨‍💻 🚀</div>  
+# <div align="center">I'm Ahmed Said, a full-stack developer and <a href="https://github.com/nofalseo" title="nofalseo"> nofalseo </a> Team Leader 👨‍💻 🚀</div>  
   <br/>
 
 - 🔭 I’m currently working on Skills  
