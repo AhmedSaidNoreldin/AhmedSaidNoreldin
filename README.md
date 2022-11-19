@@ -21,7 +21,8 @@
 
 ## My Skill Set 👩‍💻
 
-<table><tr><td valign="top" width="50%">
+<table width="100%"><tr>
+ <td valign="top" width="100%">
 
 
 
@@ -37,7 +38,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td>
+ 
+<td valign="top" width="100%">
 
 
 
@@ -49,7 +52,8 @@
 </div>
 
 </td>
- </tr></table> 
+ </tr>
+</table> 
 <br/>  
 <br/>
 
